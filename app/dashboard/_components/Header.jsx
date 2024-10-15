@@ -6,6 +6,8 @@ import { usePathname } from 'next/navigation'
 
 
 
+
+
 function Header() {
   const path=usePathname();
   useEffect(() => {

@@ -32,8 +32,7 @@ export default function Page() {
         </h2>
 
         <p className="mt-4 leading-relaxed text-white/90">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi nam dolorum aliquam,
-          quibusdam aperiam voluptatum.
+        Transforming Mock Interviews into Real-World Success – Prepare, Improve, and Conquer.
         </p>
       </div>
     </section>
@@ -66,8 +65,7 @@ export default function Page() {
           </h1>
 
           <p className="mt-4 leading-relaxed text-gray-500">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi nam dolorum aliquam,
-            quibusdam aperiam voluptatum.
+            Inverra to open new paths in your career.
           </p>
         </div>
 
@@ -77,5 +75,4 @@ export default function Page() {
   </div>
 </section>
   )
-  
 }
